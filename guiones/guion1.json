@@ -1,0 +1,70 @@
+{   "audio" : "audios/audioArcade.mp3",
+    "modelo": "modelos/modelo.glb",
+    "fondo": "rgb(0, 20, 50)",
+    "data" :
+        [
+           {
+                "tiempo":"00:00",
+                "duracion":2000,
+                "camara":"camara1",
+                "target":"Paredes",
+                "nombre":"Salon Recreativo"
+           },
+           {
+                "tiempo":"00:05",
+                "duracion":16000,
+                "camara":"camara2",
+                "target":"Punto2",
+                "nombre":"Rincon de la Nostalgia"
+           },
+           {
+               "tiempo":"00:21",
+               "duracion":2000,
+               "camara":"camara3",
+               "target":"Arcade1",
+               "nombre":"Pac-Man"
+           },
+           {
+               "tiempo":"00:39",
+               "duracion":2000,
+               "camara":"camara4",
+               "target":"Arcade2",
+               "nombre":"Donkey Kong"
+           },
+           {
+               "tiempo":"01:01",
+               "duracion":2000,
+               "camara":"camara5",
+               "target":"Arcade3",
+               "nombre":"Street Fighter 2"
+           },
+           {
+               "tiempo":"01:15",
+               "duracion":2000,
+               "camara":"camara5",
+               "target":"Arcade4",
+               "nombre":"Mario Bros"
+           },
+           {
+               "tiempo":"01:36",
+               "duracion":2000,
+               "camara":"camara4",
+               "target":"Arcade5",
+               "nombre":"Tetris"
+           },
+           {
+               "tiempo":"01:54",
+               "duracion":2000,
+               "camara":"camara3",
+               "target":"Arcade6",
+               "nombre":"Space Invaders"
+           },
+           {
+               "tiempo":"02:19",
+               "duracion":2000,
+               "camara":"camara1",
+               "target":"Paredes",
+               "nombre":"Gracias"
+           }
+        ]
+}
